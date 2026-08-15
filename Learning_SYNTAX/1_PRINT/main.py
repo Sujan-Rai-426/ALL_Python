@@ -1,6 +1,6 @@
 print("Hello World!!!")
 
-name="Sujan"
+name="NAMO"
 website="sujan140.com"
 print(website)
 print(name)
