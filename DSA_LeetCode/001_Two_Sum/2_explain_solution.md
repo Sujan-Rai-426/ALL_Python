@@ -17,6 +17,7 @@
 - **`seen_dict[num] = l:`** If the missing number isn't found yet, it saves the current number and its index into the dictionary for the next loops.
 
 
+
 <!-- ### Function [Solution Approach]
 - Create empty dictionary {} **[eg. seen_dict = {}]** 
 - Run the loop using `enumerate` in **num_list** to get both `index` and `num` of list.
