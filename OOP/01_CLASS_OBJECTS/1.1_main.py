@@ -1,4 +1,4 @@
-# NOTE: Class is parent and objects are its childrens
+# NOTE: Class is parent [eg: USER ] and objects are its childrens[eg: user_1, user_2]
 
 class User:
     username = "sujanrai426"

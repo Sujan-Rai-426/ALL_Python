@@ -1,0 +1,1 @@
+# NOTE: Decoraters are the function that is used to change and return value of other functions
