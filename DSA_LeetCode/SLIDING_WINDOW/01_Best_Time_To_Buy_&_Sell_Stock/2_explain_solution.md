@@ -1,5 +1,7 @@
 
-># STEPS EXPLAIN: 
+># Explain Solution [ 121. Best Time to Buy and Sell Stock ]
+
+>## STEPS EXPLAIN: 
 
 1. Take the price list (i.e. `price_list`): Receive a list of stock prices where each index represents a day.
 
